@@ -21,18 +21,30 @@
     width: 80%;
     margin-bottom: 20%;
 }
-@media (max-width:480px){
+/* fix news for mobile */
+@media (max-width:480px) {
     .event1 .event_image {
         margin: 0 auto;
         width: 80%;
         margin-bottom: 40%;
     }
+
     .event_image img {
         height: 45%;
         width: 100%;
     }
 }
+/* news archive button placement */
 #ContentPlaceHolder1_HyperLinkNewsArchive {
     margin: 50px 70% 0 0;
 }
+/* reduce spacing inside news box */
+.event_image .event_content p {
+    margin: 0;
+    font-size: 22px;
+}
 
+.event_image .event_content a {
+    display: inline-block;
+    margin-top: 3%;
+}

@@ -58,3 +58,8 @@
         height: 4vh;
     }
 }
+
+/* fix extra vertical space on small screens */
+.list-inline-item a{
+  padding:auto;
+}

@@ -1,1 +1,24 @@
-.wow small{line-height:40px}
+.section-title .wow small {
+    line-height: 40px
+}
+
+.event-section .container {
+    margin: 10%;
+}
+
+.event-section .wow {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.event_image img {
+    height: 75%;
+    width: 80%;
+}
+
+.event1 .event_image {
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 15%;
+}

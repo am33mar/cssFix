@@ -19,9 +19,15 @@
 .event1 .event_image {
     margin: 0 auto;
     width: 80%;
-    margin-bottom: 30%;
+    margin-bottom: 20%;
 }
-
+@media (max-width:550px){
+    .event1 .event_image {
+        margin: 0 auto;
+        width: 80%;
+        margin-bottom: 40%;
+    }
+}
 #ContentPlaceHolder1_HyperLinkNewsArchive {
     margin: 50px 70% 0 0;
 }

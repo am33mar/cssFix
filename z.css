@@ -21,7 +21,7 @@
     width: 80%;
     margin-bottom: 20%;
 }
-@media (max-width:550px){
+@media (max-width:480px){
     .event1 .event_image {
         margin: 0 auto;
         width: 80%;

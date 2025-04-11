@@ -6,4 +6,6 @@ git push origin main --force
 
 
 cdn link:
-cdn.jsdelivr.net/gh/am33mar/cssFix/test.css
+https://cdn.statically.io/gh/am33mar/cssFix/main/z.css
+short link:
+https://rb.gy/3ehc2k

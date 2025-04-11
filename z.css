@@ -1,31 +1,3 @@
-.section-title .wow small {
+.section-tittle .wow small {
     line-height: 40px
-}
-
-.event-section .container {
-    text-align: center;
-}
-
-.event-section .wow {
-    display: flex;
-    flex-direction: row;
-}
-
-.event_image img {
-    height: 60%;
-    width: 100%;
-}
-
-.event1 .event_image {
-    margin: 0 auto;
-    width: 80%;
-    margin-bottom: 20%;
-}
-
-#ContentPlaceHolder1_HyperLinkNewsArchive {
-    margin: 50px 70% 0 0;
-}
-
-.event_image p {
-    margin: 0
 }

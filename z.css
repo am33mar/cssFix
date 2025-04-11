@@ -38,7 +38,7 @@
 
 /* news archive button placement */
 #ContentPlaceHolder1_HyperLinkNewsArchive {
-    margin: 50px 70% 0 0;
+    margin: 50px 8rem 0 0;
 }
 
 /* reduce spacing inside news box */
@@ -61,5 +61,5 @@
 
 /* fix extra vertical space on small screens */
 .list-inline-item a{
-  padding:auto;
+  padding:0.5rem 8rem;
 }

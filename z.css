@@ -33,5 +33,8 @@
 }
 
 .event_image p {
-    margin-top:0; 
+    margin:0;
+}
+.event_image a{
+    margin-top: 20px;
 }

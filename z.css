@@ -45,6 +45,7 @@
 .event_image .event_content p {
     margin: 0;
     font-size: 24px;
+    text-align: center;
 }
 
 .event_image .event_content a {

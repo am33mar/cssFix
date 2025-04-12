@@ -4,6 +4,10 @@ git add .
 git commit -m "update"
 git push origin main --force
 
+github pages:
+https://am33mar.github.io/cssFix/z.css
+short link:
+https://rb.gy/x1uq86
 
 cdn link:
 https://cdn.statically.io/gh/am33mar/cssFix/main/z.css
